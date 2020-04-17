@@ -13,18 +13,18 @@
         <mobile_title>Create New</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_483207_work_assi_work_assignment</name>
-        <order>2</order>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_483207_work_assi.work_assignement_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-17 15:52:09</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b2dd31602f589010c432e93df699b6cd</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Create New</sys_name>
         <sys_overrides/>
         <sys_package display_value="Work Assignment" source="x_483207_work_assi">1edb39e42f189010c432e93df699b685</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Work Assignment">1edb39e42f189010c432e93df699b685</sys_scope>
         <sys_update_name>sys_app_module_b2dd31602f589010c432e93df699b6cd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-17 15:52:09</sys_updated_on>
+        <sys_updated_on>2020-04-17 17:42:51</sys_updated_on>
         <timeline_page/>
         <title>Create New</title>
         <uncancelable>false</uncancelable>

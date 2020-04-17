@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Work Assignment" max_length="40" name="x_483207_work_assi_work_assignment" type="collection"/>
+    <element extends="task" label="Work Assignment" max_length="40" name="x_483207_work_assi_work_assignment" sizeclass="1" type="collection"/>
 </database>
