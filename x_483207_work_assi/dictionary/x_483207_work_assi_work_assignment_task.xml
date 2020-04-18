@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Work Assignment Task" max_length="40" name="x_483207_work_assi_work_assignment_task" sizeclass="1" type="collection">
+        <element label="Work assignment" max_length="32" name="work_assignment" reference="x_483207_work_assi_work_assignment" type="reference"/>
+    </element>
+</database>

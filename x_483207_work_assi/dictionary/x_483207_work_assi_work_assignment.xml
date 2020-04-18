@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Work Assignment" max_length="40" name="x_483207_work_assi_work_assignment" sizeclass="1" type="collection"/>
+    <element extends="task" label="Work Assignment" max_length="40" name="x_483207_work_assi_work_assignment" sizeclass="3" type="collection">
+        <element label="Date of  Task  issue" max_length="40" name="date_of_task_issue" reference="x_483207_work_assi_work_assignment" type="glide_date_time"/>
+        <element label="Due Date" mandatory="true" max_length="40" name="u_due_date_2" type="due_date"/>
+        <element attributes="edge_encryption_enabled=true" label="date of issue of Task" mandatory="true" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+    </element>
 </database>
